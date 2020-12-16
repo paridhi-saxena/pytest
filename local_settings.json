@@ -1,0 +1,14 @@
+{
+  "local": 1,
+  "grid": "http://selenium:selenium@sg.yandex-team.ru:4444/wd/hub",
+  "browser_list": {
+    "Chrome_browser_v_78": {
+      "browser_name": "Chrome",
+      "path": "core/chromedriver",
+      "capabilities": {
+        "browserName": "chrome",
+        "version": "78"
+      }
+    }
+  }
+}
